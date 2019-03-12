@@ -1,4 +1,4 @@
-## Interface: 30200
+## Interface: 20400
 ## Title: DoTimer2
 ## RequiredDeps: DoTimer
 main.xml
