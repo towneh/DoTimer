@@ -495,23 +495,6 @@ function DoTimer:DefineSpells(class)
                 ["multiplier"] = 1,
             },
         }    
-    elseif class == "DEATHKNIGHT" then
-        spells = {
-            ["Death and Decay"] = 1,
-            --["Dancing Rune Weapon"] = 1,
-        }
-        localedata = {
-            ["Interface\\Icons\\Spell_Shadow_DeathAndDecay"] = {
-                ["name"] = "Death and Decay",
-                ["duration"] = 10,
-                ["multiplier"] = 1,
-            },
-            ["Interface\\Icons\\INV_Sword_07"] = {
-                ["name"] = "Dancing Rune Weapon",
-                ["duration"] = 10,
-                ["multiplier"] = 1,
-            },
-        }
     else
         spells, localedata = {}, {};
     end
