@@ -5,4 +5,4 @@ Original author Asheyla, files sourced from https://wow.curseforge.com/projects/
 
 TODO:
 
-Go through https://wow.gamepedia.com/Patch_3.0.2/API_changes and check for any API dependancies that rely on new api functionality.
+Go through https://wow.gamepedia.com/Patch_3.0.2/API_changes and check for any API dependancies that rely on new functionality.
